@@ -1,10 +1,7 @@
-# iu9-operating-systems
+# Операционные системы на ИУ9
 
-## Example of usage
-```bash 
-git config --global http.sslVerify false
-git clone https://github.com/BaldiSlayer/iu9-operating-systems.git
-cd lab4
-make build
-make run
-```
+Здесь приведены гайды (что очень полезно на первых лабах) по настройке и использованию.
+
+Также имеются коды решений всех лабораторных, что очень полезно на последних лабораторных.
+
+Отдельная благодарность [BaldiSlayer](https://github.com/BaldiSlayer), он написал основную часть гайдов, я их чуть улучшил и внес еще недостающие коды решений
